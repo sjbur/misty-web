@@ -1,5 +1,10 @@
 # misty-web
 
+Веб-приложение для прогноза погоды. 
+Для правильной работы необходимо запустить misty-backend.  
+
+Vue + Vuex + Vuetify
+
 ## Project setup
 ```
 npm install
